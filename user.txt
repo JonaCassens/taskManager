@@ -1,0 +1,4 @@
+admin, adm1n
+hammond, hamm0nd
+jeff, j3ff
+hypdev, SoftEng
