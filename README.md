@@ -13,6 +13,8 @@ To use this program, clone or download the repository to your local machine and 
 
 **view_all()**: Displays all tasks read in the *'tasks.txt'* file.
 
+**view_mine(user_check)**: Shows all tasks assigned to user, and provides the option to mark them as complete or use *edit_task(user_check, task_select)*.
+
 **mark_as_complete(user_check, task_select)**: Allows a user to mark a specific task as complete by selecting the task from a list of the user's tasks. The task's status will be updated in the tasks.txt file.
 
 **edit_task(user_check, task_select)**: Allows a user to edit a specific task by selecting the task from a list of the user's tasks. The user can choose to edit the task's title, description, due date, or assign the task to a different user. The task's details will be updated in the *'tasks.txt'* file.
